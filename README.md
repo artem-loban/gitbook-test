@@ -1,4 +1,2 @@
 # Introduction
 
-[Exsportia](exsportia.md)
-
