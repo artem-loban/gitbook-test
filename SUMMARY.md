@@ -1,20 +1,4 @@
 # Table of contents
 
-* [Exsportia](README.md)
-  * [VMS](vms/README.md)
-    * [Common components](vms/commonComponents/README.md)
-      * [add-sports](vms/add-sports/README.md)
-      * [amenity-type](vms/amenity-type/README.md)
-    * [fonts](vms/fonts/README.md)
-    * [contexts](vms/contexts/README.md)
-    * [features](vms/features/README.md)
-    * [constants](vms/constants/README.md)
-    * [global](vms/global/README.md)
-    * [helpers](vms/helpers/README.md)
-    * [icons](vms/icons/README.md)
-    * [locale](vms/locale/README.md)
-    * [routes](vms/routes/README.md)
-    * [sagas](vms/sagas/README.md)
-    * [theme](vms/theme/README.md)
-    * [ui](vms/ui/README.md)
-    * [utilities](vms/utilities/README.md)
+
+

@@ -1,6 +1,3 @@
 # Exsportia
 
-* [Exsporta VMS](vms/)
-
-
 
