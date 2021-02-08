@@ -1,5 +1,6 @@
 # Table of contents
 
 * [Exsportia](README.md)
-* [commonComponents](commoncomponents.md)
+* [commonComponents](commoncomponents/README.md)
+  * [Untitled](commoncomponents/untitled.md)
 
