@@ -1,2 +1,2 @@
-# VMS
+# Virtual Management System \(VMS\)
 

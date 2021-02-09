@@ -1,7 +1,7 @@
 # Table of contents
 
-* [EXSPORTIA](README.md)
-* [VMS](vms/README.md)
+* [Exsportia book](README.md)
+* [Virtual Management System \(VMS\)](vms/README.md)
   * [config](vms/config/README.md)
     * [jest](vms/config/jest.md)
   * [public](vms/public/README.md)

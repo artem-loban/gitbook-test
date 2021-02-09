@@ -1,6 +1,6 @@
-# EXSPORTIA
+# Exsportia book
 
-[VMS](vms/)
+[Virtual Management System \(VMS\)](vms/)
 
 Booking app
 
