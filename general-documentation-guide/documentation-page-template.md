@@ -1,2 +1,6 @@
-# Documentation page template
+# Name of new page
+
+## Feature description \(idea\)
+
+
 

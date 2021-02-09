@@ -2,7 +2,7 @@
 
 * [Exsportia](README.md)
 * [General documentation guide](general-documentation-guide/README.md)
-  * [Documentation page template](general-documentation-guide/documentation-page-template.md)
+  * [Name of new page](general-documentation-guide/documentation-page-template.md)
 * [Virtual Management System \(VMS\)](virtual-management-system-vms/README.md)
   * [Features](virtual-management-system-vms/features/README.md)
     * [Venues](virtual-management-system-vms/features/venues.md)
