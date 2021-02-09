@@ -1,2 +1,0 @@
-# manage-entity-buttons-component
-

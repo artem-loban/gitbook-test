@@ -1,4 +1,0 @@
-# commonComponents
-
-asd
-
