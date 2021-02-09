@@ -5,6 +5,7 @@
 * [General documentation guide](general-documentation-guide/)
   * [Documentation page template](general-documentation-guide/new-page-name.md)
 * [Feature in work](features-in-work/)
+  * [Archive](features-in-work/archive.md)
 * [Documentation](documentation/)
   * [Venue Management System \(VMS\)](documentation/venue-management-system-vms/)
     * [Features](documentation/venue-management-system-vms/features/)
