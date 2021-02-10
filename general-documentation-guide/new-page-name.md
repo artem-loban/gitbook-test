@@ -61,13 +61,13 @@ This section is filled in by the developer/-s and accepted by the head of develo
 * [ ] Head of development department
 
 ## 4. QA
-
+<details open>
 {% hint style="info" %}
 This section is filled in by the tester/-s
 {% endhint %}
 
 Testing info
-
+</details>
 * [ ] QA confirmation
 
 
