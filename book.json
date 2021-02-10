@@ -1,0 +1,16 @@
+{
+    "title": "Exsportia Documentation",
+    "author": "Artem Loban",
+    "output.name": "Exsportia",
+    "gitbook": "3.2.3",
+    "root": "./",
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": [
+        [ "other-plugin", "collapse" ]
+    ],
+
+    "pluginsConfig": {
+    }
+}
