@@ -2,66 +2,17 @@
 
 ## User story
 
-<details>
-{% hint style="info" %}
-This section is filled in by the author of the idea \(or according to his words\)
-{% endhint %}
-
-{% tabs %}
-{% tab title="General" %}
-Feature idea, user story
-{% endtab %}
-
-{% tab title="Design" %}
-Wishes for logic and visualization
-{% endtab %}
-{% endtabs %}
-</details>
+ {% hint style="info" %} This section is filled in by the author of the idea \\(or according to his words\\) {% endhint %} {% tabs %} {% tab title="General" %} Feature idea, user story {% endtab %} {% tab title="Design" %} Wishes for logic and visualization {% endtab %} {% endtabs %}
 
 ## Design
 
-<details>
-{% hint style="info" %}
-This section is filled in by the designer/-s and accepted by the manager and heads of development and QA departments
-{% endhint %}
-
-* Screenshots and links to Figma files with visualization
-* Flow
-* Success result
-* Rejection flows
-* Validations
-
-### Confirmation
-
-* [ ] Manager
-* [ ] Development department
-</details>
+ {% hint style="info" %} This section is filled in by the designer/-s and accepted by the manager and heads of development and QA departments {% endhint %} \* Screenshots and links to Figma files with visualization \* Flow \* Success result \* Rejection flows \* Validations \#\#\# Confirmation \* \[ \] Manager \* \[ \] Development department
 
 ## Development information
 
-<details>
-{% hint style="info" %}
-This section is filled in by the developer/-s and accepted by the head of development department
-{% endhint %}
-
-* General information
-* Code details:
-  * Input data
-  * Internal processes
-  * Output data
-* Links to the common components used in the feature
-
-### Confirmation
-
-* [ ] Head of development department
-</details>
+ {% hint style="info" %} This section is filled in by the developer/-s and accepted by the head of development department {% endhint %} \* General information \* Code details: \* Input data \* Internal processes \* Output data \* Links to the common components used in the feature \#\#\# Confirmation \* \[ \] Head of development department
 
 ## QA
 
-<details>
-{% hint style="info" %}
-This section is filled in by the tester/-s
-{% endhint %}
+ {% hint style="info" %} This section is filled in by the tester/-s {% endhint %} Testing info
 
-Testing info
-</details>
