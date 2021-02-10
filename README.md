@@ -21,7 +21,9 @@
       * [User](documentation/venue-management-system-vms/features/user.md)
       * [Venue calendar](documentation/venue-management-system-vms/features/venue-calendar.md)
     * [Common components](documentation/venue-management-system-vms/common-components.md)
-  * [Booking application](documentation/booking-application.md)
+  * [Booking application](documentation/booking-application/)
+    * [Features](documentation/booking-application/features.md)
+    * [Common components](documentation/booking-application/common-components.md)
 
 
 
