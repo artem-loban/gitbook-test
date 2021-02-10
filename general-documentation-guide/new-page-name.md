@@ -1,4 +1,4 @@
-# New feature template
+# Untitled
 
 ## User story
 
@@ -21,7 +21,7 @@ Wishes for logic and visualization
 * [ ] Manager
 * [ ] Development department
 * [ ] Design department
-* [ ] QA department\(Mordi\)
+* [ ] QA department
 
 ## Design
 
@@ -47,6 +47,8 @@ This section is filled in by the designer/-s and accepted by the manager and hea
 This section is filled in by the developer/-s and accepted by the head of development department
 {% endhint %}
 
+
+
 * General information
 * Code details:
   * Input data
@@ -63,6 +65,7 @@ This section is filled in by the developer/-s and accepted by the head of develo
 {% hint style="info" %}
 This section is filled in by the tester/-s
 {% endhint %}
+
 Testing info
 
 * [ ] QA confirmation
