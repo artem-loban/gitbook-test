@@ -2,6 +2,7 @@
 
 ## User story
 
+<details>
 {% hint style="info" %}
 This section is filled in by the author of the idea \(or according to his words\)
 {% endhint %}
@@ -15,9 +16,11 @@ Feature idea, user story
 Wishes for logic and visualization
 {% endtab %}
 {% endtabs %}
+</details>
 
 ## Design
 
+<details>
 {% hint style="info" %}
 This section is filled in by the designer/-s and accepted by the manager and heads of development and QA departments
 {% endhint %}
@@ -32,9 +35,11 @@ This section is filled in by the designer/-s and accepted by the manager and hea
 
 * [ ] Manager
 * [ ] Development department
+</details>
 
 ## Development information
 
+<details>
 {% hint style="info" %}
 This section is filled in by the developer/-s and accepted by the head of development department
 {% endhint %}
@@ -49,12 +54,14 @@ This section is filled in by the developer/-s and accepted by the head of develo
 ### Confirmation
 
 * [ ] Head of development department
+</details>
 
 ## QA
 
+<details>
 {% hint style="info" %}
 This section is filled in by the tester/-s
 {% endhint %}
 
 Testing info
-
+</details>
