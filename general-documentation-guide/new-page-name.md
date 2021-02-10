@@ -60,9 +60,6 @@ This section is filled in by the developer/-s and accepted by the head of develo
 
 ## QA
 
-<button class="section" target="QA-info" show="Show next section" hide="Hide next section"></button>
-<!--sec data-title="QA" data-id="QA-info" data-show=true ces-->
-
 {% hint style="info" %}
 This section is filled in by the tester/-s
 {% endhint %}
@@ -70,7 +67,5 @@ This section is filled in by the tester/-s
 Testing info
 
 * [ ] QA confirmation
-
-<!--endsec-->
 
 
