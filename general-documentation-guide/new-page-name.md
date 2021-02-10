@@ -3,7 +3,7 @@
 ## User story
 
 {% hint style="info" %}
-This section is filled in by the author of the idea \(or according to his words\) and confirmed by the heads of departments \(or delegates\)
+This section is filled in by the author of the idea \(or according to his words\)
 {% endhint %}
 
 {% tabs %}
@@ -15,13 +15,6 @@ Feature idea, user story
 Wishes for logic and visualization
 {% endtab %}
 {% endtabs %}
-
-### Confirmation
-
-* [ ] Manager
-* [ ] Development department
-* [ ] Design department
-* [ ] QA department
 
 ## Design
 
@@ -39,7 +32,6 @@ This section is filled in by the designer/-s and accepted by the manager and hea
 
 * [ ] Manager
 * [ ] Development department
-* [ ] QA department
 
 ## Development information
 
@@ -65,6 +57,4 @@ This section is filled in by the tester/-s
 {% endhint %}
 
 Testing info
-
-* [ ] QA confirmation
 
