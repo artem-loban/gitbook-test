@@ -1,4 +1,4 @@
-# Untitled
+# New feature template
 
 ## User story
 
@@ -16,7 +16,7 @@ Wishes for logic and visualization
 {% endtab %}
 {% endtabs %}
 
-#### Confirmation
+### Confirmation
 
 * [ ] Manager
 * [ ] Development department
@@ -35,7 +35,7 @@ This section is filled in by the designer/-s and accepted by the manager and hea
 * Rejection flows
 * Validations
 
-#### Confirmation
+### Confirmation
 
 * [ ] Manager
 * [ ] Development department
@@ -47,8 +47,6 @@ This section is filled in by the designer/-s and accepted by the manager and hea
 This section is filled in by the developer/-s and accepted by the head of development department
 {% endhint %}
 
-
-
 * General information
 * Code details:
   * Input data
@@ -56,7 +54,7 @@ This section is filled in by the developer/-s and accepted by the head of develo
   * Output data
 * Links to the common components used in the feature
 
-#### Confirmation
+### Confirmation
 
 * [ ] Head of development department
 
@@ -68,4 +66,7 @@ This section is filled in by the tester/-s
 
 Testing info
 
+sdasd
+
 * [ ] QA confirmation
+
