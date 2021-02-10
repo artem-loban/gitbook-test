@@ -41,7 +41,7 @@ This section is filled in by the designer/-s and accepted by the manager and hea
 * [ ] Development department
 * [ ] QA department
 
-## 3. Development information
+## Development information
 
 {% hint style="info" %}
 This section is filled in by the developer/-s and accepted by the head of development department
@@ -58,7 +58,7 @@ This section is filled in by the developer/-s and accepted by the head of develo
 
 * [ ] Head of development department
 
-#### QA
+## QA
 
 {% hint style="info" %}
 This section is filled in by the tester/-s

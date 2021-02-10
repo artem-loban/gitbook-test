@@ -1,9 +1,9 @@
 # New feature template
 
-## User story
+## 1. User story
 
 {% hint style="info" %}
-This section is filled in by the author of the idea \(or according to his words\)
+This section is filled in by the author of the idea \(or according to his words\) and confirmed by the heads of departments \(or delegates\)
 {% endhint %}
 
 {% tabs %}
@@ -16,7 +16,14 @@ Wishes for logic and visualization
 {% endtab %}
 {% endtabs %}
 
-## Design
+#### Confirmation
+
+* [ ] Manager
+* [ ] Development department
+* [ ] Design department
+* [ ] QA department
+
+## 2. Design
 
 {% hint style="info" %}
 This section is filled in by the designer/-s and accepted by the manager and heads of development and QA departments
@@ -32,8 +39,9 @@ This section is filled in by the designer/-s and accepted by the manager and hea
 
 * [ ] Manager
 * [ ] Development department
+* [ ] QA department
 
-## Development information
+## 3. Development information
 
 {% hint style="info" %}
 This section is filled in by the developer/-s and accepted by the head of development department
@@ -52,7 +60,7 @@ This section is filled in by the developer/-s and accepted by the head of develo
 
 * [ ] Head of development department
 
-## QA
+## 4. QA
 
 {% hint style="info" %}
 This section is filled in by the tester/-s
