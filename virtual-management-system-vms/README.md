@@ -1,2 +1,0 @@
-# Virtual Management System \(VMS\)
-
