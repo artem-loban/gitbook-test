@@ -8,7 +8,8 @@
         "website": "styles/website.css"
     },
     "plugins": [
-        [ "other-plugin", "collapse" ]
+        "other-plugin",
+        "collapse"
     ],
 
     "pluginsConfig": {
