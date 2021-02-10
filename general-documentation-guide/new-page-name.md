@@ -66,7 +66,5 @@ This section is filled in by the tester/-s
 
 Testing info
 
-sdasd
-
 * [ ] QA confirmation
 
