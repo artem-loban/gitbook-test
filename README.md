@@ -26,7 +26,5 @@
     * [Features](documentation/booking-application/features.md)
     * [Common components](documentation/booking-application/common-components.md)
 
-    \[asd\]\(./Documentation/READMY.md\)
-
 
 
