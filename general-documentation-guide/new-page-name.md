@@ -64,10 +64,5 @@ This section is filled in by the developer/-s and accepted by the head of develo
 This section is filled in by the tester/-s
 {% endhint %}
 
-{% collapse title="my list" %}
-Testing info
-{% endcollapse %}
-
 * [ ] QA confirmation
-
 
