@@ -13,7 +13,7 @@
       * [Areas](documentation/venue-management-system-vms/features/areas.md)
       * [Classes](documentation/venue-management-system-vms/features/classes.md)
       * [Teachers](documentation/venue-management-system-vms/features/teachers.md)
-      * [Autorization](documentation/venue-management-system-vms/features/authorization.md)
+      * [Authorization](documentation/venue-management-system-vms/features/authorization.md)
       * [Bookings](documentation/venue-management-system-vms/features/bookings.md)
       * [Finances](documentation/venue-management-system-vms/features/finances.md)
       * [Members](documentation/venue-management-system-vms/features/members.md)
