@@ -1,6 +1,6 @@
 # Exsportia
 
-### Table of Contents
+## Table of Contents
 
 * [General documentation guide](general-documentation-guide/)
   * [Documentation page template](general-documentation-guide/new-page-name.md)
@@ -24,6 +24,4 @@
   * [Booking application](documentation/booking-application/)
     * [Features](documentation/booking-application/features.md)
     * [Common components](documentation/booking-application/common-components.md)
-
-
 
