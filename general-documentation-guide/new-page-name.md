@@ -63,9 +63,6 @@ This section is filled in by the developer/-s and accepted by the head of develo
 {% hint style="info" %}
 This section is filled in by the tester/-s
 {% endhint %}
-{% collapse %}
 Testing info
 
 * [ ] QA confirmation
-
-{% endcollapse %}
