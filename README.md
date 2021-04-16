@@ -22,7 +22,6 @@
   * [Archive](features-in-work/archive.md)
   * [Interesting](features-in-work/interesting.md)
 * [General documentation guide](general-documentation-guide/)
-  * [New feature template](general-documentation-guide/new-page-name.md)
 
 asd
 asdasd
