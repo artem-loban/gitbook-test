@@ -8,7 +8,6 @@
       * [Members](documentation/venue-management-system-vms/features/members.md)
       * [Memberships](documentation/venue-management-system-vms/features/memberships.md)
       * [User](documentation/venue-management-system-vms/features/user.md)
-      * [Venue calendar](documentation/venue-management-system-vms/features/venue-calendar.md)
     * [Common components](documentation/venue-management-system-vms/common-components.md)
   * [Booking application](documentation/booking-application.md)
 * [Features in work](features-in-work/README.md)
