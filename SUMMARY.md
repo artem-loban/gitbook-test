@@ -4,7 +4,6 @@
 * [Documentation](documentation/README.md)
   * [Venue Management System \(VMS\)](documentation/venue-management-system-vms/README.md)
     * [Features](documentation/venue-management-system-vms/features/README.md)
-      *
       * [Members](documentation/venue-management-system-vms/features/members.md)
       * [Memberships](documentation/venue-management-system-vms/features/memberships.md)
       * [User](documentation/venue-management-system-vms/features/user.md)
